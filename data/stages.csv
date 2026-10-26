@@ -1,0 +1,6 @@
+stage_id,stage_name,probability,stage_order
+STG-001,Qualification,0.2,1
+STG-002,Proposal,0.5,2
+STG-003,Negotiation,0.75,3
+STG-004,Closed Won,1.0,4
+STG-005,Closed Lost,0.0,5

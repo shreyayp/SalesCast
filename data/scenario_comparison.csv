@@ -1,0 +1,4 @@
+scenario,expected_bookings
+conservative,2715218747.4871707
+base,2738863000.0135627
+optimistic,2754585023.202091
